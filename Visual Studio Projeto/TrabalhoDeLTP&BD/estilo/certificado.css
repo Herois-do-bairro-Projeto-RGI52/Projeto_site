@@ -1,0 +1,70 @@
+﻿body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.certificado-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.certificado-box {
+    background-color: white;
+    border: 2px solid #ccc;
+    padding: 40px;
+    max-width: 700px;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 15px rgba(0,0,0,0.15);
+}
+
+    .certificado-box h2 {
+        margin-bottom: 20px;
+        color: #333;
+        font-size: 26px;
+    }
+
+    .certificado-box h3 {
+        color: #444;
+        margin: 10px 0;
+    }
+
+    .certificado-box p {
+        color: #555;
+        font-size: 16px;
+        margin: 10px 0 20px;
+    }
+
+    .certificado-box h4 {
+        margin-top: 30px;
+        color: #0077a8;
+    }
+
+.logo-certificado {
+    margin-bottom: 20px;
+}
+
+    .logo-certificado img {
+        width: 120px;
+    }
+
+.btn-pdf {
+    margin-top: 20px;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-pdf:hover {
+        background-color: #e65900;
+    }

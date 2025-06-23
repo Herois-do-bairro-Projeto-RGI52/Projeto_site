@@ -1,0 +1,105 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #eef2f7;
+    margin: 0;
+    padding: 0;
+}
+
+.form-container {
+    max-width: 420px;
+    background-color: #fff;
+    margin: 60px auto;
+    padding: 35px 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    font-size: 26px;
+    margin-bottom: 25px;
+}
+
+.date-group {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.form-select {
+    flex: 1;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    font-size: 14px;
+    transition: border-color 0.3s;
+}
+
+    .form-select:focus {
+        border-color: #3498db;
+        outline: none;
+    }
+
+
+.form-input {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    margin-bottom: 15px;
+    font-size: 14px;
+    transition: border-color 0.3s;
+}
+
+    .form-input:focus {
+        border-color: #3498db;
+        outline: none;
+    }
+
+.btn-cadastrar {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    float: right;
+    margin-bottom: 20px;
+}
+
+    .btn-cadastrar:hover {
+        background-color: #217dbb;
+    }
+
+.btn-login {
+    background-color: #ff7f50;
+    color: white;
+    border: none;
+    padding: 12px;
+    width: 100%;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .btn-login:hover {
+        background-color: #e46436;
+    }
+
+.mensagem-erro {
+    color: #e74c3c;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+
+    .btn-cadastrar {
+        float: none;
+        width: 100%;
+    }
+}

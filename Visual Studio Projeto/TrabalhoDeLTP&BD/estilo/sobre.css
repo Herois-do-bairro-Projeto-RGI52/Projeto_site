@@ -1,0 +1,142 @@
+ body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.barra-topo {
+  width: 100%;
+  height: 16px; /* altura fina */
+  background-color: #3696ae; /* azul */
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #40a8c2;
+   
+}
+
+.logo img {
+    width: 100px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ff8351;
+}
+.pagina-herois {
+  padding: 60px 20px;
+  background-color: #f4f9fb;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+.pagina-herois .conteudo {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.pagina-herois h1 {
+  font-size: 38px;
+  color: #1a4d7a;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.pagina-herois .intro {
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 50px;
+  color: #444;
+}
+
+.bloco-texto {
+  background-color: white;
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.05);
+}
+
+.bloco-texto h2 {
+  color: #1a4d7a;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.bloco-texto ul {
+  padding-left: 20px;
+  margin: 10px 0;
+}
+
+.bloco-texto ul li {
+  margin-bottom: 8px;
+}
+
+.site-footer {
+  background-color: #40a8c2;
+  color: #fff;
+  padding: 40px 20px 20px;
+  font-size: 14px;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer-coluna {
+  flex: 1 1 200px;
+}
+
+.footer-coluna h4 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #f1f1f1;
+}
+
+.footer-coluna ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-coluna ul li {
+  margin-bottom: 8px;
+}
+
+.footer-coluna ul li a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.footer-coluna ul li a:hover {
+  color: #fff;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  border-top: 1px solid #f1f1f1;
+  padding-top: 15px;
+  color: #ffffff;
+}

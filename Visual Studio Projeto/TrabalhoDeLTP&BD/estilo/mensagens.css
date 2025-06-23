@@ -1,0 +1,48 @@
+﻿body {
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.mensagens-container {
+    max-width: 1000px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+    .mensagens-container h2 {
+        text-align: center;
+        color: #425b69;
+        background-color: #e5f7fc;
+        padding: 20px;
+        font-size: 22px;
+        border-radius: 8px;
+        margin-bottom: 30px;
+    }
+
+.mensagem-card {
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+    .mensagem-card h3 {
+        margin-top: 0;
+        color: #333;
+    }
+
+    .mensagem-card p {
+        color: #555;
+        margin: 6px 0;
+    }
+
+    .mensagem-card strong {
+        color: #333;
+    }

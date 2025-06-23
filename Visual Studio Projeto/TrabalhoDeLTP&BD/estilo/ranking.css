@@ -1,0 +1,151 @@
+ body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.barra-topo {
+  width: 100%;
+  height: 16px; /* altura fina */
+  background-color: #3696ae; /* azul */
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #40a8c2;
+   
+}
+
+.logo img {
+    width: 100px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ff8351;
+}
+
+.ranking {
+  background-color: #f4f4f4;
+  padding: 60px 20px;
+  font-family: Arial, sans-serif;
+}
+
+.container-ranking {
+  max-width: 600px;
+  margin: 0 auto;
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.container-ranking h2 {
+  font-size: 28px;
+  color: #1a4d7a;
+  margin-bottom: 30px;
+}
+
+.lista-ranking {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.usuario-ranking {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 15px;
+  background-color: #e9f3ff;
+  padding: 12px 20px;
+  border-radius: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.usuario-ranking img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: #ccc;
+}
+
+.usuario-ranking .posicao {
+  font-weight: bold;
+  width: 80px;
+}
+
+.usuario-ranking .nome {
+  font-size: 16px;
+  color: #333;
+}
+
+
+.site-footer {
+  background-color: #40a8c2;
+  color: #fff;
+  padding: 40px 20px 20px;
+  font-size: 14px;
+}
+
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer-coluna {
+  flex: 1 1 200px;
+}
+
+.footer-coluna h4 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #f1f1f1;
+}
+
+.footer-coluna ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-coluna ul li {
+  margin-bottom: 8px;
+}
+
+.footer-coluna ul li a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.footer-coluna ul li a:hover {
+  color: #fff;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 30px;
+  border-top: 1px solid #f1f1f1;
+  padding-top: 15px;
+  color: #ffffff;
+}

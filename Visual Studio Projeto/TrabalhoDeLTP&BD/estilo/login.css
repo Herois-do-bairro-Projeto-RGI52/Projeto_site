@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #e5e5e5;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  gap: 80px;
+  padding: 60px 40px;
+}
+
+.login-left {
+  text-align: left;
+  max-width: 400px;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+}
+
+.linha-laranja {
+  border: none;
+  height: 4px;
+  width: 100px;
+  background-color: #ff8351;
+  margin: 25px 0;
+}
+
+.cta-texto {
+  font-size: 18px;
+  color: #333;
+  line-height: 1.6;
+  max-width: 300px;
+}
+
+.login-right {
+  background-color: white;
+  padding: 50px 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.15);
+  width: 400px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form input {
+  padding: 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.btn-login {
+  background-color: #ff8351;
+  color: white;
+  border: none;
+  padding: 15px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-cadastrar {
+  background-color: #40a8c2;
+  color: white;
+  border: none;
+  padding: 15px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+}

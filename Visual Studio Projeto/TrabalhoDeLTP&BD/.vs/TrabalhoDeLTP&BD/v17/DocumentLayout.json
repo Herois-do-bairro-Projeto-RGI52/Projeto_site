@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\usuario.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\usuario.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\sobre.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\sobre.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\ranking.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\ranking.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\problemas.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\problemas.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\paineladm.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\paineladm.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\mensagens.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\mensagens.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\logout.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\logout.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\index.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\index.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\contato.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\contato.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\certificado.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\certificado.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\cadastro.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\cadastro.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\cadastro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\cadastro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\usuario.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\sobre.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\sobre.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\ranking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\ranking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\problemas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\problemas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\paineladm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\paineladm.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\mensagens.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\mensagens.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\contato.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\contato.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|c:\\visual studio projeto\\trabalhodeltp\u0026bd\\paginas\\certificado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD8D75E1-CB1E-4EFA-856F-8B4A14184109}|TrabalhoDeLTP\u0026BD.vbproj|solutionrelative:paginas\\certificado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Renan Cardoso\\AppData\\Local\\Temp\\kyre0awr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Renan Cardoso\\AppData\\Local\\Temp\\kyre0awr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Renan Cardoso\\AppData\\Local\\Temp\\kyre0awr..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usuario.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\usuario.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\usuario.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\usuario.aspx.vb",
+              "RelativeToolTip": "paginas\\usuario.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:52:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sobre.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\sobre.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\sobre.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\sobre.aspx.vb",
+              "RelativeToolTip": "paginas\\sobre.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:52:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ranking.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\ranking.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\ranking.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\ranking.aspx.vb",
+              "RelativeToolTip": "paginas\\ranking.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:52:20.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "problemas.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\problemas.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\problemas.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\problemas.aspx.vb",
+              "RelativeToolTip": "paginas\\problemas.aspx.vb",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:52:16.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "paineladm.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\paineladm.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\paineladm.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\paineladm.aspx.vb",
+              "RelativeToolTip": "paginas\\paineladm.aspx.vb",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:51:56.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mensagens.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\mensagens.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\mensagens.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\mensagens.aspx.vb",
+              "RelativeToolTip": "paginas\\mensagens.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:51:53.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "logout.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\logout.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\logout.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\logout.aspx.vb",
+              "RelativeToolTip": "paginas\\logout.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:51:50.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\login.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\login.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\login.aspx.vb",
+              "RelativeToolTip": "paginas\\login.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:51:44.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\index.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\index.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\index.aspx.vb",
+              "RelativeToolTip": "paginas\\index.aspx.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:51:33.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "contato.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\contato.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\contato.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\contato.aspx.vb",
+              "RelativeToolTip": "paginas\\contato.aspx.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:51:29.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "certificado.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\certificado.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\certificado.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\certificado.aspx.vb",
+              "RelativeToolTip": "paginas\\certificado.aspx.vb",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:51:13.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "problemas.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\problemas.aspx",
+              "RelativeDocumentMoniker": "paginas\\problemas.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\problemas.aspx",
+              "RelativeToolTip": "paginas\\problemas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:14:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ranking.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\ranking.aspx",
+              "RelativeDocumentMoniker": "paginas\\ranking.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\ranking.aspx",
+              "RelativeToolTip": "paginas\\ranking.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:49:19.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sobre.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\sobre.aspx",
+              "RelativeDocumentMoniker": "paginas\\sobre.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\sobre.aspx",
+              "RelativeToolTip": "paginas\\sobre.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:38:01.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "usuario.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\usuario.aspx",
+              "RelativeDocumentMoniker": "paginas\\usuario.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\usuario.aspx",
+              "RelativeToolTip": "paginas\\usuario.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:49:11.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cadastro.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\cadastro.aspx",
+              "RelativeDocumentMoniker": "paginas\\cadastro.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\cadastro.aspx",
+              "RelativeToolTip": "paginas\\cadastro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:49:19.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cadastro.aspx.vb",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\cadastro.aspx.vb",
+              "RelativeDocumentMoniker": "paginas\\cadastro.aspx.vb",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\cadastro.aspx.vb",
+              "RelativeToolTip": "paginas\\cadastro.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-23T03:37:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "paineladm.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\paineladm.aspx",
+              "RelativeDocumentMoniker": "paginas\\paineladm.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\paineladm.aspx",
+              "RelativeToolTip": "paginas\\paineladm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:25:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mensagens.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\mensagens.aspx",
+              "RelativeDocumentMoniker": "paginas\\mensagens.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\mensagens.aspx",
+              "RelativeToolTip": "paginas\\mensagens.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:25:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "logout.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\logout.aspx",
+              "RelativeDocumentMoniker": "paginas\\logout.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\logout.aspx",
+              "RelativeToolTip": "paginas\\logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:49:33.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\login.aspx",
+              "RelativeDocumentMoniker": "paginas\\login.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\login.aspx",
+              "RelativeToolTip": "paginas\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:49:34.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\index.aspx",
+              "RelativeDocumentMoniker": "paginas\\index.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\index.aspx",
+              "RelativeToolTip": "paginas\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:15:06.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "contato.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\contato.aspx",
+              "RelativeDocumentMoniker": "paginas\\contato.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\contato.aspx",
+              "RelativeToolTip": "paginas\\contato.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:49:06.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "certificado.aspx",
+              "DocumentMoniker": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\certificado.aspx",
+              "RelativeDocumentMoniker": "paginas\\certificado.aspx",
+              "ToolTip": "C:\\Visual Studio Projeto\\TrabalhoDeLTP\u0026BD\\paginas\\certificado.aspx",
+              "RelativeToolTip": "paginas\\certificado.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-23T03:14:47.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Renan Cardoso\\AppData\\Local\\Temp\\kyre0awr..sql",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Renan Cardoso\\AppData\\Local\\Temp\\kyre0awr..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-22T17:41:16.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

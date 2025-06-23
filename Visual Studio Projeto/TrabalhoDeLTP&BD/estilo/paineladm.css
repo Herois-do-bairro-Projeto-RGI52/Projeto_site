@@ -1,0 +1,65 @@
+﻿.painel-container {
+    max-width: 1100px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+    .painel-container h2 {
+        text-align: center;
+        color: #425b69;
+        background-color: #e5f7fc;
+        padding: 20px;
+        font-size: 24px;
+        border-radius: 8px;
+    }
+
+    .painel-container h3 {
+        margin-top: 40px;
+        color: #333;
+    }
+
+.card {
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+    .card p {
+        margin: 8px 0;
+        color: #555;
+    }
+
+.btn-excluir {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-excluir:hover {
+        background-color: #c0392b;
+    }
+
+.btn-editar {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-right: 8px;
+}
+
+    .btn-editar:hover {
+        background-color: #2980b9;
+    }
