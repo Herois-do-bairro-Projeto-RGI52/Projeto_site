@@ -25,7 +25,7 @@ Nosso objetivo com o site é fazer com que o nosso bairro seja melhor cuidado, f
 
 ## Nosso Notion
 
-[![Notion Logo](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>)](https://plant-beginner-7aa.notion.site/PROJETO-LTP-II-1e3ad16e797c80b29766d7ec87f84c58)
+https://plant-beginner-7aa.notion.site/PROJETO-LTP-II-1e3ad16e797c80b29766d7ec87f84c58
 
 ---
 
